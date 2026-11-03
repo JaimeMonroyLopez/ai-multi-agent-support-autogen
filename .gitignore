@@ -1,0 +1,4 @@
+.venv-autogen/
+.cache/
+.ipynb_checkpoints/
+__pycache__/
